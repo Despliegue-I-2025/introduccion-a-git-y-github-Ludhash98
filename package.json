@@ -1,0 +1,12 @@
+{
+    "name": "despliegue-nodo",
+    "version": "1.0.0",
+    "description": "Diagnostico de entorno Node.js",
+    "main": "diagnostico.js",
+    "scripts": {
+      "diagnostico": "node diagnostico.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
